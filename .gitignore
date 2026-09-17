@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.db
+.coverage
+htmlcov/
+*.egg-info/
+PYTHON_DJANGO_DRF_ROADMAP.md
+dsa_interview_guide copy.pdf
