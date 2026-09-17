@@ -6,6 +6,8 @@ __pycache__/
 *.db
 .coverage
 htmlcov/
+output/
+tmp/
 *.egg-info/
 PYTHON_DJANGO_DRF_ROADMAP.md
 dsa_interview_guide copy.pdf
